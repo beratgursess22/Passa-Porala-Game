@@ -1,0 +1,30 @@
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\bin\Debug\Passoporala.exe.config
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\bin\Debug\Passoporala.exe
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\bin\Debug\Passoporala.pdb
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.csprojAssemblyReference.cache
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.Form1.resources
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.Properties.Resources.resources
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.csproj.GenerateResource.cache
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.exe
+D:\dwskopyedek\udemy 25 proje .com\Passoporala game\Passoporala\Passoporala\obj\Debug\Passoporala.pdb
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\bin\Debug\Passoporala.exe.config
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\bin\Debug\Passoporala.exe
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\bin\Debug\Passoporala.pdb
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.csprojAssemblyReference.cache
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.Form1.resources
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.Properties.Resources.resources
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.csproj.GenerateResource.cache
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.exe
+D:\dwskopyedek\C# 25.proje\Passoporala Game\Passoporala\Passoporala\obj\Debug\Passoporala.pdb
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\bin\Debug\Passoporala.exe.config
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\bin\Debug\Passoporala.exe
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\bin\Debug\Passoporala.pdb
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.csprojAssemblyReference.cache
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.Form1.resources
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.Properties.Resources.resources
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.csproj.GenerateResource.cache
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.csproj.CoreCompileInputs.cache
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.exe
+D:\dwskopyedek\C# 25.proje\Passa Porala Game\Passa Porala\Passoporala\obj\Debug\Passoporala.pdb
